@@ -1,8 +1,8 @@
 public class Waterbottle {
     private int volume;
 
-    public Waterbottle(int volume){
-        this.volume = volume;
+    public Waterbottle(){
+        this.volume = 100;
     }
 
     public int getVolume(){
